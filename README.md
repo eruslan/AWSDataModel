@@ -33,7 +33,7 @@ Database structure is defined at **sql_queries.py** by CREATE TABLE statements. 
 ### 2.3 ER model
 
 ![](sparkifydb_erd.png)
-[Image](https://github.com/eruslan/SongsDataModel/blob/master/sparkifydb_erd.png)
+[Image](https://github.com/eruslan/AWSDataModel/blob/master/sparkifydb_erd.png)
 
 ## 3. ETL Process
 The ETL process is performed by the **etl.py** python script.
